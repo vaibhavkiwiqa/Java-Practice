@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Automation/selenium-api-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-api-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-chrome-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-chrome-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-chromium-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-chromium-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v85-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v85-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v115-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v115-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v116-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v116-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v117-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-devtools-v117-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-edge-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-edge-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-firefox-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-firefox-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-http-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-http-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-ie-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-ie-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-java-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-java-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-json-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-json-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-manager-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-manager-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-os-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-os-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-remote-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-remote-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-safari-driver-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-safari-driver-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-support-4.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/selenium-support-4.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/slf4j.api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/slf4j.jdk14-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/slf4j.log4j12_1.5.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
